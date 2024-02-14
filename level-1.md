@@ -52,3 +52,8 @@ Melakukan git diff antara branch master dan branch development
  Melakukan git merge pada branch master dari branch development
 
  ![no3_merge](src/img/level1-no3_6.png)
+
+ 4. Implementasikan sebuah penanganan conflict di branch development ketika setelah merge dari branch featureA lalu merge dari branch featureB. 
+Catatan: conflict bisa terjadi jika kedua branch mengerjakan di file dan line code yang sama. Buatlah skenario sendiri
+
+Pada file `yangbeneraja.txt` kita isi dengan content yang sama antara branch master dan branch development
