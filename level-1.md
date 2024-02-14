@@ -44,3 +44,8 @@ Melakukan stash pada branch master, karena tidak melakukan commit sebelum checko
 Melakukan git reset pada hash tertentu di file owo.txt
 
 ![no3_reset](src/img/level1-no3_4.png)
+
+Melakukan git diff antara branch master dan branch development
+
+![no3_diff](src/img/level1-no3_5.png)
+
