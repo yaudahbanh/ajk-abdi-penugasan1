@@ -30,3 +30,7 @@ Melakukan brancing dengan urutan seperti ini
 3. Implementasikan intruksi git untuk push, pull, stash, reset, diff, dan merge. Adanya tambahan intruksi git selain yang disebutkan akan lebih baik
 
 Melakukan git push pada branch master ke remote
+
+![no3_push](src/img/level1-no3_1.png)
+
+Melakukan git pull pada branch master, setelah ada perubahan pada file `owi.txt`
