@@ -40,3 +40,5 @@ Melakukan git pull pada branch master, setelah ada perubahan pada file `owi.txt`
 Melakukan stash pada branch master, karena tidak melakukan commit sebelum checkout pada branch lain
 
 ![no3_stash](src/img/level1-no3_3.png)
+
+Melakukan git reset pada hash tertentu di file owo.txt
