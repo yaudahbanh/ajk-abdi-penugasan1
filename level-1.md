@@ -61,3 +61,5 @@ Pada file `anis.txt` dilakukan perubahan yang berbeda pada content di antara bra
 ![no4_conflict](src/img/level1-no4_1.png)
 
 ![no4_resolve](src/img/level1-no4_2.png)
+
+5. Gunakan merge no fast forward.
