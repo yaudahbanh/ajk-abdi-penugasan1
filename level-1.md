@@ -42,3 +42,5 @@ Melakukan stash pada branch master, karena tidak melakukan commit sebelum checko
 ![no3_stash](src/img/level1-no3_3.png)
 
 Melakukan git reset pada hash tertentu di file owo.txt
+
+![no3_reset](src/img/level1-no3_4.png)
