@@ -56,4 +56,8 @@ Melakukan git diff antara branch master dan branch development
  4. Implementasikan sebuah penanganan conflict di branch development ketika setelah merge dari branch featureA lalu merge dari branch featureB. 
 Catatan: conflict bisa terjadi jika kedua branch mengerjakan di file dan line code yang sama. Buatlah skenario sendiri
 
-Pada file `yangbeneraja.txt` kita isi dengan content yang sama antara branch master dan branch development
+Pada file `anis.txt` dilakukan perubahan yang berbeda pada content di antara branch featureA dan branch featureB. Lalu merge ke branch development
+
+![no4_conflict](src/img/level1-no4_1.png)
+
+![no4_resolve](src/img/level1-no4_2.png)
