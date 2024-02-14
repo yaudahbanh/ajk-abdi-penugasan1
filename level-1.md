@@ -53,7 +53,7 @@ Melakukan git diff antara branch master dan branch development
 
  ![no3_merge](src/img/level1-no3_6.png)
 
- 4. Implementasikan sebuah penanganan conflict di branch development ketika setelah merge dari branch featureA lalu merge dari branch featureB. 
+4. Implementasikan sebuah penanganan conflict di branch development ketika setelah merge dari branch featureA lalu merge dari branch featureB. 
 Catatan: conflict bisa terjadi jika kedua branch mengerjakan di file dan line code yang sama. Buatlah skenario sendiri
 
 Pada file `anis.txt` dilakukan perubahan yang berbeda pada content di antara branch featureA dan branch featureB. Lalu merge ke branch development
