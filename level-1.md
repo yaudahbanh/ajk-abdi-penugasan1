@@ -38,3 +38,5 @@ Melakukan git pull pada branch master, setelah ada perubahan pada file `owi.txt`
 ![no3_pull](src/img/level1-no3_2.png)
 
 Melakukan stash pada branch master, karena tidak melakukan commit sebelum checkout pada branch lain
+
+![no3_stash](src/img/level1-no3_3.png)
