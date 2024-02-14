@@ -33,4 +33,6 @@ Melakukan git push pada branch master ke remote
 
 ![no3_push](src/img/level1-no3_1.png)
 
-Melakukan git pull pada branch master, setelah ada perubahan pada file `owi.txt`
+Melakukan git pull pada branch master, setelah ada perubahan pada file `owi.txt` pada remote
+
+![no3_pull](src/img/level1-no3_2.png)
