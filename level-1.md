@@ -63,3 +63,7 @@ Pada file `anis.txt` dilakukan perubahan yang berbeda pada content di antara bra
 ![no4_resolve](src/img/level1-no4_2.png)
 
 5. Gunakan merge no fast forward.
+
+Melakukan merge no fast forward dari featureB -> featureA -> development -> master
+
+![no5](src/img/level1-no5.png)
